@@ -221,4 +221,4 @@ Kaspersky RannohDecryptor is available as a **full free version** for Windows, w
 Take control of your files today! Download Kaspersky RannohDecryptor and reclaim your data from ransomware threats.
 
 ---
-**Last updated:** 2026-09-30 21:08:33 UTC
+**Last updated:** 2026-10-01 00:58:40 UTC
